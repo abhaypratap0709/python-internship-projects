@@ -1,5 +1,29 @@
-.venv/
+# Byte-compiled / optimized / DLL files
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# IDE / editor settings
 .idea/
 .vscode/
-*.pyc
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Project-specific generated files
+records.txt
+Backups/
