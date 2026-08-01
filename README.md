@@ -31,7 +31,7 @@ python-internship-projects/
 
 - **Language:** Python 3.10+
 - **Libraries:** Standard library, `requests`, `beautifulsoup4`
-- **Tools:** Git, VS Code
+- **Tools:** Git, Antigravity IDE, Python
 
 ## Installation
 
